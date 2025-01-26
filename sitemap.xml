@@ -2,6 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://eroelectric.com/</loc>
+        <lastmod>2025-01-26</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
@@ -9,7 +10,23 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://eroelectric.com/404</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eroelectric.com/blog</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://eroelectric.com/contact</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eroelectric.com/project</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eroelectric.com/service</loc>
     <priority>0.8</priority>
   </url>
 </urlset>
